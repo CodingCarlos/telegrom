@@ -1,4 +1,4 @@
-# telegram
+# telegrom
 
 ## Project setup
 ```
